@@ -1,3 +1,5 @@
+主要增加了部分注释,使代码更容易阅读,另外添加了logging操作,将loss写入文件.
+---
 # PyTorch Radial Basis Function (RBF) Layer
 
 An implementation of an RBF layer/module using PyTorch. RBF layers are an alternative to the activation
